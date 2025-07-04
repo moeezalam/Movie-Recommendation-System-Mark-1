@@ -2,8 +2,6 @@
 GENERATED THIS DOCUMENTATION USING AI
 A content-based movie recommendation system that suggests similar movies based on your preferences. The system analyzes movie features like genres, keywords, cast, crew, and plot overview to find movies with similar themes and styles.
 
-![CineMatch Screenshot](https://image.tmdb.org/t/p/w500/sample_poster.jpg)
-
 ## Features
 
 - **Content-based recommendations**: Get movie suggestions based on themes, genres, and styles
