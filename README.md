@@ -43,3 +43,5 @@ You'll need to run movie_recommender_system.py with TMDB's dataset
 # Run the application
 streamlit run app.py --server.headless true
 ```
+
+You will need TMDB's API key and TMDB's Kaggle Dataset.
