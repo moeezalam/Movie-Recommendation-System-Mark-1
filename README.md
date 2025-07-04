@@ -35,7 +35,11 @@ cd Movie-Recommendation-System-Mark-1
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
+You'll need to run movie_recommender_system.py with TMDB's dataset
+
+```bash
 # Run the application
 streamlit run app.py --server.headless true
 ```
